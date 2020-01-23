@@ -1,0 +1,12 @@
+plugins/modules/ibm_sa_domain.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_domain.py validate-modules:doc-required-mismatch
+plugins/modules/ibm_sa_host.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_host.py validate-modules:doc-required-mismatch
+plugins/modules/ibm_sa_host_ports.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_host_ports.py validate-modules:doc-required-mismatch
+plugins/modules/ibm_sa_pool.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_pool.py validate-modules:doc-required-mismatch
+plugins/modules/ibm_sa_vol.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_vol.py validate-modules:doc-required-mismatch
+plugins/modules/ibm_sa_vol_map.py validate-modules:doc-missing-type
+plugins/modules/ibm_sa_vol_map.py validate-modules:doc-required-mismatch
